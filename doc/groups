@@ -1,0 +1,14 @@
+Unter "[Groups](%%action.groups%%)" findest du eine Übersicht über alle
+verfügbaren Gruppen. Dort kannst du auch einer Gruppe beitreten.
+
+Eine Nachricht an eine Gruppe schreiben
+---------------------------------------
+
+Füge "!gruppenname" irgendwo in der Nachricht ein, um sie an eine Gruppe zu
+schreiben. Wenn du mehrere Gruppen angibst, geht die Nachricht an jede Gruppe.
+
+Eine Gruppe anlegen
+-------------------
+
+Wenn eine Gruppe fehlt, kannst du sie anlegen. Gehe dazu auf die
+[Gruppenübersicht](%%action.groups%%) und wähle "Create a new group".

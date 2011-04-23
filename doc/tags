@@ -1,0 +1,16 @@
+Tags sind eine einfache Möglichkeit, Nachrichten zu kategorisieren. Bitte
+benutzt sie!
+
+Eine Nachricht taggen
+---------------------
+
+Eine Nachricht wird getaggt, indem man ein *hashtag* benutzt, z. B. #titelthema, #nummer2,
+usw. Erlaubt sind die Buchstaben a-z, Zahlen, sowie ".", "-" und "_".
+Du kannst soviele Tags einsetzen wie du willst.
+
+Tags in einer Nachricht werden automatisch mit einer Übersichtsseite verlinkt,
+die alle Nachrichten mit demselben Tag auflistet.
+
+Eine Übersicht über alle Tags, die auf der Seite zuletzt verwendet wurden,
+erhältst du unter "[Recent tags"](%%action.publictagcloud%%). Je größer ein Tag
+dort ist, desto öfter wurde er benutzt.

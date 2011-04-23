@@ -1,0 +1,26 @@
+Fragen und Antworten
+
+Gibt es ähnliche Programme wie für Twitter, um Nachrichten ohne Browser lesen und schreiben zu können?
+-----------------------------------------------------------
+
+Ja! Die Platform benutzt eine Twitter-kompatible API, d.h. jedes Programm, das mit
+Twitter funktioniert, funktioniert in der Regel auch hier. Einzige Voraussetzung:
+Das Programm muss sich sagen lassen, dass es auf eine andere Adresse zugreifen soll.
+
+Programme, die diese Unterstützung von Haus aus mitbringen, sind z.B.
+[Spaz](http://funkatron.com/spaz) und [Twhirl](http://www.twhirl.org/). Eine Liste
+mit vielen unterstützten Programmen gibt es [hier](http://laconi.ca/trac/wiki/Apps).
+
+Wer ein Firefox-Addon sucht, kann [dieses eigens angepasste Addon](http://www.furios-campus.de/pinnwand/IdentiFoxFurios.xpi) benutzen.
+
+Welche Adresse muss ich diesen Programmen geben?
+------------------------------------------------
+
+Normalerweise *http://www.furios-campus.de/pinnwand/api*. Bei einigen Programmen auch nur *http://www.furios-campus.de/pinnwand*. Manchmal muss man auch seinen Benutzernamen noch davorsetzen, dann wären die Adressen: *benutzername@www.furios-campus.de/pinnwand/api* oder *benutzername@www.furios-campus.de/pinnwand*.
+
+Werden Twitter Commands unterstützt?
+------------------------------------
+
+Ja. Siehe auch: [Liste der Twitter Commands](http://help.twitter.com/forums/10711/entries/14020)
+
+

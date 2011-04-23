@@ -1,0 +1,11 @@
+/* IE6 specific styles */
+.entity_profile .entity_nickname,
+.entity_profile .entity_location,
+.entity_profile .entity_url,
+.entity_profile .entity_note,
+.entity_profile .entity_tags {
+margin-left:0;
+}
+.entity_profile .entity_depiction {
+margin-bottom:123px;
+}

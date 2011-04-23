@@ -1,0 +1,55 @@
+Eine kurze Einführung in die Bedienung der Seite.
+
+Nachrichten schreiben
+---------------------
+
+Schreibe einfach deine Nachricht in das Textfeld oben und klicke auf "Send".
+
+Wenn deine Nachricht eine bestimmte Person betrifft, dann kannst du das mit
+@benutzername deutlich machen. Du kannst auch mehrer @-Empfänger angeben.
+
+Um auf eine Nachricht zu antworten, klicke auf
+den grünen Pfeil bei einer Nachricht. Es wird dann automatisch eine @-Antwort
+mit dem Benutzernamen des Nachrichtenverfassers in das Textfeld eingefügt.
+
+Um deine Nachricht zu löschen, klicke auf den grünen Papierkorb.
+
+Nachrichten haben eine maximale Länge von 140 Zeichen. Wenn du einen langen
+Link posten möchtest, kannst du ihn einfach in die Nachricht einfügen. Der
+Link wird dann automatisch mit einem [Kurz-URL-Dienst](http://de.wikipedia.org/wiki/Kurz-URL-Dienst)
+verkürzt (welcher Dienst benutzt wird, kannst du in deinen [Profileinstellungen](%%action.profilesettings%%)
+ändern.
+
+Abonnieren
+----------
+
+Du kannst die Nachrichten anderer Benutzer abonnieren. Die Nachrichten dieser
+Benutzer erscheinen dann auch in der privaten Timeline in deinem Profil. Gehe
+dazu auf das Profil des Benutzers und wähle "Subscribe".
+
+Private Nachrichten
+-------------------
+
+Es ist möglich, private Nachrichten an einen Benutzer zu schicken, die nur er sieht.
+Gehe dazu in die Outbox in deinem Profil. Private Nachrichten an dich kannst du
+in deiner Inbox abrufen. Bitte beachte: Nachrichten mit @benutzername sind
+keine privaten Nachrichten, sondern öffentliche, die du an einen bestimmten
+Benutzer adressierst!
+
+Public Timeline
+---------------
+
+Alles, was die Benutzer auf der Seite schreiben, wird in der
+[Public Timeline](%%action.public%%) angezeigt. Du erreichst
+sie durch einen Klick auf "All" im Hauptmenü oben rechts.
+
+Gruppen
+-------
+
+siehe [Gruppen](%%doc.groups%%)
+
+Tags
+----
+
+siehe [Tags](%%doc.tags%%)
+
